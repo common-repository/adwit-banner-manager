@@ -1,0 +1,252 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Adwit Banner Manager v0.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-03-31 10:23-0500\n"
+"PO-Revision-Date: 2011-03-31 10:23-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: adwit-banner-manager.php:62
+msgid "Manage Ads"
+msgstr "Ad Manager"
+
+#: adwit-banner-manager.php:63
+msgid "Zones"
+msgstr "Zones"
+
+#: adwit-banner-manager.php:64
+msgid "Setup Adwit Ads"
+msgstr "Adwit Setup"
+
+#: adwit-banner-manager.php:129
+msgid "Email already exist"
+msgstr "Email already exist"
+
+#: adwit-banner-manager.php:136
+msgid "Bad password"
+msgstr "Bad password"
+
+#: adwit-banner-manager.php:347
+msgid "Adwit Banner Manager is a banner manager to help you managing all of your ad. More powerful than a banner rotator it's a real adserver (ad manager)."
+msgstr "Adwit Banner Manager is a banner manager to help you managing all of your ad. More powerful than a banner rotator it's a real adserver (ad manager)."
+
+#: adwit-banner-manager.php:348
+msgid "It allow you to publish all affiliate advertisement adbrite, adgridwork, adify, adpinion, adroll, adsense, chitika, cj, commission junction, crispads, google, random, shoppingads, yahoo, ypn and more"
+msgstr "It allow you to publish all affiliate advertisement adbrite, adgridwork, adify, adpinion, adroll, adsense, chitika, cj, commission junction, crispads, google, random, shoppingads, yahoo, ypn and more"
+
+#: adwit-banner-widget.php:7
+msgid "Create and display your adwit-express ads"
+msgstr "Display your ads with adwit-express"
+
+#: adwit-banner-widget.php:8
+msgid "Adwit-Banner"
+msgstr "Adwit-Banner"
+
+#: adwit-banner-widget.php:20
+msgid "Adwit Banner"
+msgstr "Adwit-Banner"
+
+#: adwit-banner-widget.php:148
+msgid "Select"
+msgstr "Select"
+
+#: adwit-banner-widget.php:152
+msgid "Banner Size"
+msgstr "Banner size"
+
+#: views/_help_square.php:2
+msgid "adserver to display advertisement"
+msgstr "Adwitserver"
+
+#: views/_help_square.php:3
+msgid "ad management with adwit banner manager ad manager"
+msgstr "Adwit Banner Manager is maintained and developed by the <a href=\"http://www.adwitserver.com\">Adwitserver team</a>."
+
+#: views/_help_square.php:4
+msgid "adwit offer a large panel of ad server and ad manager to display banner or affiliate program like adsense, adroll..."
+msgstr "We built easy & fully automated Self-Service ad managers to help you sell ads on your own!"
+
+#: views/_help_square.php:5
+msgid "follow adwit banner manager on twitter"
+msgstr "Please follow us on <a href=\"http://twitter.com/adwitserver\">Twitter</a>"
+
+#: views/_help_square.php:6
+msgid "need help to use your adserver ?"
+msgstr "Need Help?"
+
+#: views/_help_square.php:8
+msgid "install adwit banner manager on wordpress"
+msgstr "<a href=\"www.adwitserver.com/wordpress-plugin.html\">Installation Help</a>"
+
+#: views/_help_square.php:9
+msgid "frequently asked question about adwit banner manager and affiliate program like adsense"
+msgstr "<a href=\"http://wordpress.org/extend/plugins/adwit-banner-manager/faq/\">Frequently Asked Questions</a>"
+
+#: views/_help_square.php:10
+msgid "support forum, and how to display add on this ad manager"
+msgstr "<a href=\"http://wordpress.org/tags/adwit-banner-manager?forum_id=10\">Support Forum</a>"
+
+#: views/_help_square.php:12
+msgid "rate this ad management plugin for wordpress"
+msgstr "Rate This Plugin!"
+
+#: views/_help_square.php:13
+msgid "please rate this plugin for manage your ads easily from wordpress"
+msgstr "Please <a href=\"http://wordpress.org/extend/plugins/adwit-banner-manager/\">Rate this plugin</a> and tell us if it works for you or not. It really helps development"
+
+#: views/auth.php:11
+msgid "Invalid email or password!"
+msgstr "Invalid email or password!"
+
+#: views/auth.php:13
+msgid "You already got an adwit-express account, please logged in"
+msgstr "You already have an Adwit-express account, please log in"
+
+#: views/auth.php:19
+msgid "Login to Adwit-Express platform"
+msgstr "Login to the Adwit-express platform"
+
+#: views/auth.php:25
+msgid "Email"
+msgstr "Email"
+
+#: views/auth.php:35
+msgid "Password"
+msgstr "Password"
+
+#: views/auth.php:47
+msgid "Forgot password?"
+msgstr "Forgot password?"
+
+#: views/auth.php:53
+msgid "Login"
+msgstr "Login"
+
+#: views/login.php:3
+msgid "Adwit-express connexion"
+msgstr "Adwit-express login"
+
+#: views/login.php:4
+#: views/register.php:4
+msgid "Adwit express slogan"
+msgstr "To be fully functional, your Adwit-Banner-Manager requires a free Adwit-express account that optimizes your ads and provides access to advanced management features"
+
+#: views/login.php:5
+msgid "Don't have an account yet"
+msgstr "You don't have an account yet"
+
+#: views/login.php:27
+msgid "Type your password"
+msgstr "Type your password"
+
+#: views/login.php:32
+msgid "Connect"
+msgstr "Connect"
+
+#: views/main.php:15
+msgid "Adwit Banner Manager - Choice of advertising zones"
+msgstr "Adwit Banner Manager - Choice of advertising zones"
+
+#: views/main.php:17
+msgid "Need Help ?"
+msgstr "Need Help ?"
+
+#: views/main.php:21
+msgid "Choose the type of page on which you want to display ads, then drag and drop the ad formats that you want to install on your blog<br/>If you need to add specific size zones, specific locations (ie: header), or because of your blog template you cannot ideally place your advertising zones using the “drag and drop” tool, please <a href=\\\"http://www.adwit-express.com/help/Adding-customized-zones-from-your-Adwit-Banner-Manager-account.html\\\">click here</a> to see how to configure customized advertising zones."
+msgstr "Choose the type of page on which you want to display ads, then drag and drop the ad formats that you want to install on your blog<br/>If you need to add specific size zones, specific locations (ie: header), or because of your blog template you cannot ideally place your advertising zones using the “drag and drop” tool, please <a href=\"admin.php?page=adwit_zones\">click here</a> to see how to configure customized advertising zones."
+
+#: views/main.php:25
+msgid "Post type"
+msgstr "Post Type"
+
+#: views/main.php:27
+msgid "Page"
+msgstr "Page"
+
+#: views/main.php:28
+msgid "Post"
+msgstr "Post"
+
+#: views/main.php:29
+msgid "Home"
+msgstr "Home"
+
+#: views/main.php:30
+#, fuzzy
+msgid "search"
+msgstr "Search"
+
+#: views/main.php:56
+msgid "* Warning! Vertical banners (160x600, 120x600) may deform your pages, so it is recommended to use them in widgets rather than here in the page content."
+msgstr "* Warning! Vertical banners (160x600, 120x600) may deform your pages, so it is recommended to use them in widgets rather than here in the page content."
+
+#: views/main.php:57
+msgid "* Depending of your template, it may be that banners located on your page footer cannot be activated (Some templates prohibiting the use of script)"
+msgstr "* Depending of your template, it may be that banners located on your page footer cannot be activated (Some templates prohibiting the use of script)"
+
+#: views/main.php:58
+msgid "<font color='#ff0000'>* Once you have set the banner, just click on it to disable<br/>"
+msgstr "<font color='#ff0000'>* Once you have set the banner, just click on it to disable<br/>"
+
+#: views/main.php:136
+msgid "Once you have set up display zones, you may add one or more Adwit widgets (\"Widgets\"  on the Wordpress menu), then click on the \"Ad manager\" menu to insert ads"
+msgstr "Once you have set up display zones, you may add one or more Adwit widgets (\"Widgets\"  on the Wordpress menu), then click on the \"Ad manager\" menu to insert ads"
+
+#: views/main.php:139
+msgid "How to easily Setup your display zones"
+msgstr "How to easily Setup your display zones"
+
+#: views/register.php:3
+msgid "Activate your adwit-express account"
+msgstr "Create your Adwit-Banner-Manager / Adwit-express account"
+
+#: views/register.php:5
+msgid "Already go an account ?"
+msgstr "Already got an account ?"
+
+#: views/register.php:26
+msgid "Choice a password"
+msgstr "Choose a password"
+
+#: views/register.php:31
+msgid "Confirm your password"
+msgstr "Confirm your password"
+
+#: views/register.php:35
+msgid "Create an account"
+msgstr "Create a free account"
+
+#~ msgid "Add Banner"
+#~ msgstr "Add Banner"
+
+#~ msgid ""
+#~ "Choisissez le type de page sur lequel vous désirez des publicités, puis "
+#~ "glissez et déposez simplement les formats d'annonces que vous désirez "
+#~ "incorporer à votre blog"
+#~ msgstr ""
+#~ "Choose the type of page on which you want to display ads, then drag and "
+#~ "drop the ad formats that you want to install on your blog<br/>If you need "
+#~ "to add specific size zones, specific locations (ie: header), or because "
+#~ "of your blog template you cannot ideally place your advertising zones "
+#~ "using the “drag and drop” tool, please <a href=\"http://www.adwit-express."
+#~ "com/help/Adding-customized-zones-from-your-Adwit-Banner-Manager-account."
+#~ "html\">click here</a> to see how to configure customized advertising "
+#~ "zones."
+
+#~ msgid "New Adwit Ads"
+#~ msgstr "Create new Ad"
+
+#~ msgid "Empty key go to http://www.adwit-express.com"
+#~ msgstr "Empty key go to http://www.adwit-express.com"
